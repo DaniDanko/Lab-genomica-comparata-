@@ -1,1 +1,2 @@
-# Lab-genomica-comparata-
+# Lab-genomica-comparata-repository
+Questa è la mia repository!
